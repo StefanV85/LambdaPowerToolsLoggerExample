@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "TypeScript->JavaScript",
+            "type": "npm",
+            "group": "build",
+            "script": "tsc",
+            "problemMatcher": []
+        }
+    ]
+}
