@@ -9,4 +9,7 @@ logger.info("info");
 console.log("real logging");
 console.warn("real warning");
 console.info("real info");
+process.stdout.write("something");
+process.stdout.write("something");
+process.stdout.write("something");
 //# sourceMappingURL=index.js.map

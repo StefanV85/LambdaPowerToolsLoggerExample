@@ -6,7 +6,8 @@
             "request": "launch",
             "name": "launch",
             "program": "${workspaceRoot}/index.js",
-            "preLaunchTask": "TypeScript->JavaScript"
+            "preLaunchTask": "TypeScript->JavaScript",
+            "outputCapture": "std"
         }
     ]
 }
